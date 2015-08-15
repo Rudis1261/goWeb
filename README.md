@@ -7,7 +7,9 @@ https://www.nicolasmerouze.com/middlewares-golang-best-practices-examples/
 
 
 ```shell
-go get github.com/justinas/alice   # For handler chaining
+go get github.com/justinas/alice            # For handler chaining
+go get github.com/gorilla/context           # Contexts
+go get github.com/go-sql-driver/mysql       # MySQL Driver
 ```
 
 Alice documentation: https://github.com/justinas/alice
